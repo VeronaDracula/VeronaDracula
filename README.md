@@ -3,4 +3,6 @@
 
 🍒Стек технологий: HTML, CSS, JavaScript, Grid Layout, Flexbox, БЭМ, Figma.
 
+🗨 Telegram: @clawed_owl
+
 
